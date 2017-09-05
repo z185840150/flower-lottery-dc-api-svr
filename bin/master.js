@@ -10,7 +10,11 @@ const [config, logger] = [
 ]
 const threads = Math.min(Math.max(1, config.server.maxThreads), os.cpus().length)
 
-logger.info('sport api server will running...')
+logger.info('┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐')
+logger.info('┆ data center api server will running...        ┆')
+logger.info('┆ e-mail: chameleon.work@qq.com                 ┆')
+logger.info('┆ authorization: chameleon                      ┆')
+logger.info('└┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘')
 logger.info('mongdb connection test...')
 
 mongoose.Promise = global.Promise
@@ -80,5 +84,10 @@ function createWorker () {
         }
       }
     })
+  } else {
+    logger.info('┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐')
+    logger.info('┆ all the workers are ready ┆')
+    logger.info('└┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘')
+    require('./../lib/crawler')
   }
 }
