@@ -4867,3 +4867,153 @@
 [2017-09-06 16:19:06.364] [INFO] [MASTER] - the crawler module is being loaded...
 [2017-09-06 16:19:06.514] [INFO] [MASTER] - 正在加载 竞彩足球 数据爬虫...
 [2017-09-06 16:19:06.514] [INFO] [MASTER] - 竞彩足球 球队 数据爬虫任务正在启动...
+[2017-09-06 16:31:36.375] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:31:36.378] [INFO] [MASTER] - ┆ data center api server will running...        ┆
+[2017-09-06 16:31:36.379] [INFO] [MASTER] - ┆ e-mail: chameleon.work@qq.com                 ┆
+[2017-09-06 16:31:36.379] [INFO] [MASTER] - ┆ authorization: chameleon                      ┆
+[2017-09-06 16:31:36.379] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:31:36.379] [INFO] [MASTER] - mongdb connection test...
+[2017-09-06 16:31:36.437] [INFO] [MASTER] - mongdb connection test was successful
+[2017-09-06 16:31:36.438] [INFO] [MASTER] - redis connection test...
+[2017-09-06 16:31:36.445] [INFO] [MASTER] - redis authorization succeeds
+[2017-09-06 16:31:36.447] [INFO] [MASTER] - redis connection test was successful
+[2017-09-06 16:31:36.447] [INFO] [MASTER] - creating a cluster's worker... (count: 1)
+[2017-09-06 16:31:36.787] [INFO] [MASTER] - worker 1 online
+[2017-09-06 16:31:37.068] [INFO] [WORKER-1] - connect to the mongodb...
+[2017-09-06 16:31:37.128] [INFO] [WORKER-1] - successful mongodb connection, register the mongoose module...
+[2017-09-06 16:31:37.128] [INFO] [WORKER-1] - the registered mongoose module is successful
+[2017-09-06 16:31:37.128] [INFO] [WORKER-1] - read the server configuration data...
+[2017-09-06 16:31:37.303] [INFO] [WORKER-1] - read the server config successful, created at: Wednesday, July 26, 2017 5:07 AM
+[2017-09-06 16:31:37.472] [INFO] [MASTER] - worker 1 is listening on localhost:52938
+[2017-09-06 16:31:37.472] [INFO] [WORKER-1] - server is listening on port undefined
+[2017-09-06 16:31:37.473] [INFO] [MASTER] - worker 1 was running
+[2017-09-06 16:31:37.473] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:31:37.474] [INFO] [MASTER] - ┆ all the workers are ready ┆
+[2017-09-06 16:31:37.474] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:31:37.474] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:31:37.474] [INFO] [MASTER] - ┆ prepare to start the crawler thread... ┆
+[2017-09-06 16:31:37.474] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:31:37.475] [INFO] [MASTER] - the crawler module is being loaded...
+[2017-09-06 16:31:37.609] [INFO] [MASTER] - 正在加载 竞彩足球 数据爬虫...
+[2017-09-06 16:31:37.610] [INFO] [MASTER] - 竞彩足球 球队 数据爬虫任务正在启动...
+[2017-09-06 16:32:32.640] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:32.644] [INFO] [MASTER] - ┆ data center api server will running...        ┆
+[2017-09-06 16:32:32.644] [INFO] [MASTER] - ┆ e-mail: chameleon.work@qq.com                 ┆
+[2017-09-06 16:32:32.644] [INFO] [MASTER] - ┆ authorization: chameleon                      ┆
+[2017-09-06 16:32:32.644] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:32.644] [INFO] [MASTER] - mongdb connection test...
+[2017-09-06 16:32:32.698] [INFO] [MASTER] - mongdb connection test was successful
+[2017-09-06 16:32:32.698] [INFO] [MASTER] - redis connection test...
+[2017-09-06 16:32:32.706] [INFO] [MASTER] - redis authorization succeeds
+[2017-09-06 16:32:32.707] [INFO] [MASTER] - redis connection test was successful
+[2017-09-06 16:32:32.707] [INFO] [MASTER] - creating a cluster's worker... (count: 1)
+[2017-09-06 16:32:33.620] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:33.624] [INFO] [MASTER] - ┆ data center api server will running...        ┆
+[2017-09-06 16:32:33.625] [INFO] [MASTER] - ┆ e-mail: chameleon.work@qq.com                 ┆
+[2017-09-06 16:32:33.625] [INFO] [MASTER] - ┆ authorization: chameleon                      ┆
+[2017-09-06 16:32:33.625] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:33.625] [INFO] [MASTER] - mongdb connection test...
+[2017-09-06 16:32:33.679] [INFO] [MASTER] - mongdb connection test was successful
+[2017-09-06 16:32:33.680] [INFO] [MASTER] - redis connection test...
+[2017-09-06 16:32:33.687] [INFO] [MASTER] - redis authorization succeeds
+[2017-09-06 16:32:33.689] [INFO] [MASTER] - redis connection test was successful
+[2017-09-06 16:32:33.689] [INFO] [MASTER] - creating a cluster's worker... (count: 1)
+[2017-09-06 16:32:34.009] [INFO] [MASTER] - worker 1 online
+[2017-09-06 16:32:34.653] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:34.657] [INFO] [MASTER] - ┆ data center api server will running...        ┆
+[2017-09-06 16:32:34.657] [INFO] [MASTER] - ┆ e-mail: chameleon.work@qq.com                 ┆
+[2017-09-06 16:32:34.658] [INFO] [MASTER] - ┆ authorization: chameleon                      ┆
+[2017-09-06 16:32:34.658] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:34.658] [INFO] [MASTER] - mongdb connection test...
+[2017-09-06 16:32:34.713] [INFO] [MASTER] - mongdb connection test was successful
+[2017-09-06 16:32:34.714] [INFO] [MASTER] - redis connection test...
+[2017-09-06 16:32:34.721] [INFO] [MASTER] - redis authorization succeeds
+[2017-09-06 16:32:34.723] [INFO] [MASTER] - redis connection test was successful
+[2017-09-06 16:32:34.723] [INFO] [MASTER] - creating a cluster's worker... (count: 1)
+[2017-09-06 16:32:35.037] [INFO] [MASTER] - worker 1 online
+[2017-09-06 16:32:35.309] [INFO] [WORKER-1] - connect to the mongodb...
+[2017-09-06 16:32:35.371] [INFO] [WORKER-1] - successful mongodb connection, register the mongoose module...
+[2017-09-06 16:32:35.371] [INFO] [WORKER-1] - the registered mongoose module is successful
+[2017-09-06 16:32:35.371] [INFO] [WORKER-1] - read the server configuration data...
+[2017-09-06 16:32:35.485] [INFO] [WORKER-1] - read the server config successful, created at: Wednesday, July 26, 2017 5:07 AM
+[2017-09-06 16:32:35.650] [INFO] [MASTER] - worker 1 is listening on localhost:53021
+[2017-09-06 16:32:35.649] [INFO] [WORKER-1] - server is listening on port undefined
+[2017-09-06 16:32:35.650] [INFO] [MASTER] - worker 1 was running
+[2017-09-06 16:32:35.650] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:35.651] [INFO] [MASTER] - ┆ all the workers are ready ┆
+[2017-09-06 16:32:35.651] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:35.651] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:35.651] [INFO] [MASTER] - ┆ prepare to start the crawler thread... ┆
+[2017-09-06 16:32:35.651] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:35.652] [INFO] [MASTER] - the crawler module is being loaded...
+[2017-09-06 16:32:35.793] [INFO] [MASTER] - 正在加载 竞彩足球 数据爬虫...
+[2017-09-06 16:32:35.793] [INFO] [MASTER] - 竞彩足球 球队 数据爬虫任务正在启动...
+[2017-09-06 16:32:38.640] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:38.643] [INFO] [MASTER] - ┆ data center api server will running...        ┆
+[2017-09-06 16:32:38.644] [INFO] [MASTER] - ┆ e-mail: chameleon.work@qq.com                 ┆
+[2017-09-06 16:32:38.644] [INFO] [MASTER] - ┆ authorization: chameleon                      ┆
+[2017-09-06 16:32:38.644] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:38.644] [INFO] [MASTER] - mongdb connection test...
+[2017-09-06 16:32:38.700] [INFO] [MASTER] - mongdb connection test was successful
+[2017-09-06 16:32:38.700] [INFO] [MASTER] - redis connection test...
+[2017-09-06 16:32:38.708] [INFO] [MASTER] - redis authorization succeeds
+[2017-09-06 16:32:38.710] [INFO] [MASTER] - redis connection test was successful
+[2017-09-06 16:32:38.710] [INFO] [MASTER] - creating a cluster's worker... (count: 1)
+[2017-09-06 16:32:39.031] [INFO] [MASTER] - worker 1 online
+[2017-09-06 16:32:39.306] [INFO] [WORKER-1] - connect to the mongodb...
+[2017-09-06 16:32:39.366] [INFO] [WORKER-1] - successful mongodb connection, register the mongoose module...
+[2017-09-06 16:32:39.366] [INFO] [WORKER-1] - the registered mongoose module is successful
+[2017-09-06 16:32:39.366] [INFO] [WORKER-1] - read the server configuration data...
+[2017-09-06 16:32:39.484] [INFO] [WORKER-1] - read the server config successful, created at: Wednesday, July 26, 2017 5:07 AM
+[2017-09-06 16:32:39.646] [INFO] [MASTER] - worker 1 is listening on localhost:53036
+[2017-09-06 16:32:39.646] [INFO] [WORKER-1] - server is listening on port undefined
+[2017-09-06 16:32:39.647] [INFO] [MASTER] - worker 1 was running
+[2017-09-06 16:32:39.647] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:39.647] [INFO] [MASTER] - ┆ all the workers are ready ┆
+[2017-09-06 16:32:39.647] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:39.648] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:39.648] [INFO] [MASTER] - ┆ prepare to start the crawler thread... ┆
+[2017-09-06 16:32:39.648] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:39.648] [INFO] [MASTER] - the crawler module is being loaded...
+[2017-09-06 16:32:39.783] [INFO] [MASTER] - 正在加载 竞彩足球 数据爬虫...
+[2017-09-06 16:32:39.784] [INFO] [MASTER] - 竞彩足球 球队 数据爬虫任务正在启动...
+[2017-09-06 16:32:41.646] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:41.650] [INFO] [MASTER] - ┆ data center api server will running...        ┆
+[2017-09-06 16:32:41.651] [INFO] [MASTER] - ┆ e-mail: chameleon.work@qq.com                 ┆
+[2017-09-06 16:32:41.651] [INFO] [MASTER] - ┆ authorization: chameleon                      ┆
+[2017-09-06 16:32:41.651] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:41.651] [INFO] [MASTER] - mongdb connection test...
+[2017-09-06 16:32:41.711] [INFO] [MASTER] - mongdb connection test was successful
+[2017-09-06 16:32:41.711] [INFO] [MASTER] - redis connection test...
+[2017-09-06 16:32:41.721] [INFO] [MASTER] - redis authorization succeeds
+[2017-09-06 16:32:41.722] [INFO] [MASTER] - redis connection test was successful
+[2017-09-06 16:32:41.722] [INFO] [MASTER] - creating a cluster's worker... (count: 1)
+[2017-09-06 16:32:42.645] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:42.650] [INFO] [MASTER] - ┆ data center api server will running...        ┆
+[2017-09-06 16:32:42.650] [INFO] [MASTER] - ┆ e-mail: chameleon.work@qq.com                 ┆
+[2017-09-06 16:32:42.650] [INFO] [MASTER] - ┆ authorization: chameleon                      ┆
+[2017-09-06 16:32:42.650] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:42.650] [INFO] [MASTER] - mongdb connection test...
+[2017-09-06 16:32:42.706] [INFO] [MASTER] - mongdb connection test was successful
+[2017-09-06 16:32:42.707] [INFO] [MASTER] - redis connection test...
+[2017-09-06 16:32:42.715] [INFO] [MASTER] - redis authorization succeeds
+[2017-09-06 16:32:42.716] [INFO] [MASTER] - redis connection test was successful
+[2017-09-06 16:32:42.716] [INFO] [MASTER] - creating a cluster's worker... (count: 1)
+[2017-09-06 16:32:43.040] [INFO] [MASTER] - worker 1 online
+[2017-09-06 16:32:43.320] [INFO] [WORKER-1] - connect to the mongodb...
+[2017-09-06 16:32:43.380] [INFO] [WORKER-1] - successful mongodb connection, register the mongoose module...
+[2017-09-06 16:32:43.380] [INFO] [WORKER-1] - the registered mongoose module is successful
+[2017-09-06 16:32:43.380] [INFO] [WORKER-1] - read the server configuration data...
+[2017-09-06 16:32:43.496] [INFO] [WORKER-1] - read the server config successful, created at: Wednesday, July 26, 2017 5:07 AM
+[2017-09-06 16:32:43.662] [INFO] [MASTER] - worker 1 is listening on localhost:53056
+[2017-09-06 16:32:43.662] [INFO] [WORKER-1] - server is listening on port undefined
+[2017-09-06 16:32:43.663] [INFO] [MASTER] - worker 1 was running
+[2017-09-06 16:32:43.663] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:43.663] [INFO] [MASTER] - ┆ all the workers are ready ┆
+[2017-09-06 16:32:43.663] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:43.664] [INFO] [MASTER] - ┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┐
+[2017-09-06 16:32:43.664] [INFO] [MASTER] - ┆ prepare to start the crawler thread... ┆
+[2017-09-06 16:32:43.664] [INFO] [MASTER] - └┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┘
+[2017-09-06 16:32:43.664] [INFO] [MASTER] - the crawler module is being loaded...
+[2017-09-06 16:32:43.806] [INFO] [MASTER] - 正在加载 竞彩足球 数据爬虫...
+[2017-09-06 16:32:43.807] [INFO] [MASTER] - 竞彩足球 球队 数据爬虫任务正在启动...
