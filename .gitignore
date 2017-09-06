@@ -1,5 +1,5 @@
 # git ignore
-node_modules
-.vscode
-files
-logs
+node_modules/
+.vscode/
+files/
+logs/
