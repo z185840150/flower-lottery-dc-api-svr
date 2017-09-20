@@ -16,3 +16,8 @@ global.console = __dev
   }
 
 cluster.isMaster ? require('./master') : require('./worker')
+
+// sudo
+// mongod --auth -f /data/mongodb/mongod.conf
+// cd /data/redis
+// redis-server redis.conf
